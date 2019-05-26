@@ -551,13 +551,13 @@ form .formgroup.checkbox label{
     .col-m.spacing:nth-of-type(4n+4){ margin-right: 0;}
     
     .col-g{ width: calc(100% * 1/3);}
-    .col-g.spacing{ width: calc(100% * 1/3 - 2%/3);}
-    .col-g.spacing:nth-of-type(n){ margin-right: 1%;}
+    .col-g.spacing{ width: calc(100% * 1/3 - 6%/3);}
+    .col-g.spacing:nth-of-type(n){ margin-right: 3%;}
     .col-g.spacing:nth-of-type(3n+3){ margin-right: 0;}
     
     .col-x{ width: calc(100% * 1/2);}
-    .col-x.spacing{ width: calc(100% * 1/2 - 1%/2);}
-    .col-x.spacing:nth-of-type(n){ margin-right: 1%;}
+    .col-x.spacing{ width: calc(100% * 1/2 - 3%/2);}
+    .col-x.spacing:nth-of-type(n){ margin-right: 3%;}
     .col-x.spacing:nth-of-type(2n+2){ margin-right: 0;}
 }
 
