@@ -11,4 +11,6 @@ $(document).ready(() => {
         pager: ".pager"
     });
 
+    sliderComponent.hover(() => sliderComponent.cycle('pause'), () => sliderComponent.cycle('resume'));
+
 });

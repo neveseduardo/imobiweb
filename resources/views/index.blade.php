@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1.0" />
-        <meta name="theme-color" content="#50248e" />
+        <meta name="theme-color" content="#333333" />
         <meta name="robots" content="all,follow">
 
         <title>Imobiliaria webapp</title>
